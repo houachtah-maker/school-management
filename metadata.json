@@ -1,0 +1,6 @@
+{
+  "name": "High School Manager",
+  "description": "Comprehensive school management app for high school schedules, student grades, teacher assignments, and academic reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
